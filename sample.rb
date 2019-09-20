@@ -1,6 +1,6 @@
 def hello
-  p "hello, world."
+  p "hello, Github."
 end
 
 hello
-puts "goemon"
+puts "goemon\nhana"
