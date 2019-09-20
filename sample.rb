@@ -5,3 +5,4 @@ end
 hello
 puts "goemon\nhana\nryotaro"
 puts "roisu"
+puts "riki"ß
