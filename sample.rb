@@ -3,4 +3,4 @@ def hello
 end
 
 hello
-puts "goemon\nhana"
+puts "goemon\nhana\nryotaro"
